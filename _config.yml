@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: GuanGhongZheng`s Website
-email:799510197@qq.com
+email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username:?
+twitter_username:
 github_username: keeeeq
 minimal_mistakes_skin: default
 search: true
@@ -71,9 +71,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    # - label: ""
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:
